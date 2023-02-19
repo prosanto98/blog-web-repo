@@ -1,0 +1,17 @@
+.cart-body:hover {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+        rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.cart-btn {
+    padding: 10px 36px;
+    color: #007F5F;
+    border-radius: 17px;
+    border-color: #007F5F;
+}
+
+.cart-btn:hover {
+    background: #007F5F;
+    color: #fff;
+    border-color: transparent;
+}

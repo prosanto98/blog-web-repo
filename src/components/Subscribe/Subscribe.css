@@ -1,0 +1,11 @@
+.subscribe-btn {
+    position: absolute;
+    padding: 18px 30px;
+    border: none;
+
+    background: #007F5F;
+    border-radius: 17px;
+    color: #fff;
+    top: 10%;
+    right: 15px;
+}

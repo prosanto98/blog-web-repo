@@ -1,0 +1,27 @@
+.selected-btn {
+    padding: 10px 35px;
+    background: #007F5F;
+    border-radius: 17px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.search-input {
+    width: 50%;
+    background: #B1E3FF;
+    box-shadow: inset 0px -1px 0px #EFF3F5;
+    border-radius: 8px 8px 0px 0px;
+}
+
+.icon-search {
+    position: absolute;
+    font-weight: 900;
+    top: 12px;
+    left: 13px;
+    font-size: 23px;
+}
+
+.text:hover {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+        rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}

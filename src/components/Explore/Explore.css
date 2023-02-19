@@ -1,0 +1,21 @@
+.over-nav {
+    overflow-x: scroll;
+
+}
+
+.over-nav a {
+    padding: 16px 35px;
+    background: #007F5F;
+    border-radius: 17px;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 16px;
+    text-decoration: none;
+    margin: 5px 10PX;
+}
+
+
+.cart-body:hover {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+        rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}

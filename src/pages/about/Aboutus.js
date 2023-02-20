@@ -1,10 +1,10 @@
 import React from "react";
-import Banner from "../../components/Banner/Banner";
+import Gallary from "../../components/Gallary/Gallary";
 
 function Aboutus() {
   return (
     <>
-      <Banner></Banner>
+      <Gallary></Gallary>
     </>
   );
 }

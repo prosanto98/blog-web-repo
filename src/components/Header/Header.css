@@ -1,17 +1,19 @@
 .nav-z {
-    z-index: 1;
+  z-index: 1;
 }
 
-
 .nav-logo {
-    width: 150px;
+  width: 150px;
 }
 
 .nav-btn {
-    text-decoration: none;
-    font-weight: 600;
-    padding: 16px 34px;
-    color: #fff !important;
-    background: #007F5F;
-    border-radius: 17px;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 16px 34px;
+  color: #fff !important;
+  background: #007f5f;
+  border-radius: 17px;
+}
+a {
+  text-decoration: none !important;
 }

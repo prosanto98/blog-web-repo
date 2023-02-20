@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 import { Container, Nav, Navbar } from "react-bootstrap";
-
+import { Link } from "react-router-dom";
 const Header = () => {
   return (
     <Navbar className="bg-white position-sticky top-0 nav-z" expand="lg">
@@ -12,24 +12,18 @@ const Header = () => {
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav className="mx-auto my-2 my-lg-0">
-            <Nav.Link className="mx-3" href="#action1">
-              Home
-            </Nav.Link>
-            <Nav.Link className="mx-3" href="#action2">
-              Tours
-            </Nav.Link>
-            <Nav.Link className="mx-3" href="#action2">
-              Booking
-            </Nav.Link>
-            <Nav.Link className="mx-3" href="#action2">
-              Pages
-            </Nav.Link>
-            <Nav.Link className="mx-3" href="#action2">
-              Features
-            </Nav.Link>
-            <Nav.Link className="mx-3" href="#action2">
-              Blog
-            </Nav.Link>
+            <Nav className="mx-3 text-decoration-none">
+              <Link to="/">Home</Link>
+            </Nav>
+            <Nav className="mx-3">
+              <Link to="/about">About</Link>
+            </Nav>
+            <Nav className="mx-3">
+              <Link to="/blog">Blog</Link>
+            </Nav>
+            <Nav className="mx-3">
+              <Link to="/contact">Contact</Link>
+            </Nav>
           </Nav>
           <div>
             <a className="nav-btn" href="/">

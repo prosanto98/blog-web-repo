@@ -18,7 +18,7 @@ const Gallery = () => {
           <img src="img/g-1.jpg" alt="" />
           <div className="content">
             <h3>amazing places</h3>
-            <p>
+            <p className="p-color">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus,
               tenetur.
             </p>
@@ -31,7 +31,7 @@ const Gallery = () => {
           <img src="img/g-2.jpg" alt="" />
           <div className="content">
             <h3>amazing places</h3>
-            <p>
+            <p className="p-color">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus,
               tenetur.
             </p>
@@ -44,7 +44,7 @@ const Gallery = () => {
           <img src="img/g-3.jpg" alt="" />
           <div className="content">
             <h3>amazing places</h3>
-            <p>
+            <p className="p-color">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus,
               tenetur.
             </p>
@@ -57,7 +57,7 @@ const Gallery = () => {
           <img src="img/g-4.jpg" alt="" />
           <div className="content">
             <h3>amazing places</h3>
-            <p>
+            <p className="p-color">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus,
               tenetur.
             </p>
@@ -70,7 +70,7 @@ const Gallery = () => {
           <img src="img/g-5.jpg" alt="" />
           <div className="content">
             <h3>amazing places</h3>
-            <p>
+            <p className="p-color">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus,
               tenetur.
             </p>
@@ -83,7 +83,7 @@ const Gallery = () => {
           <img src="img/g-6.jpg" alt="" />
           <div className="content">
             <h3>amazing places</h3>
-            <p>
+            <p className="p-color">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus,
               tenetur.
             </p>
@@ -96,7 +96,7 @@ const Gallery = () => {
           <img src="img/g-7.jpg" alt="" />
           <div className="content">
             <h3>amazing places</h3>
-            <p>
+            <p className="p-color">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus,
               tenetur.
             </p>
@@ -109,7 +109,7 @@ const Gallery = () => {
           <img src="img/g-8.jpg" alt="" />
           <div className="content">
             <h3>amazing places</h3>
-            <p>
+            <p className="p-color">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus,
               tenetur.
             </p>
@@ -122,7 +122,7 @@ const Gallery = () => {
           <img src="img/g-9.jpg" alt="" />
           <div className="content">
             <h3>amazing places</h3>
-            <p>
+            <p className="p-color">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus,
               tenetur.
             </p>

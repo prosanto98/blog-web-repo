@@ -1,14 +1,13 @@
 .banner {
-  /* height: 650px; */
-
   background-color: #f8f8f8f8;
   background-image: url(../../../public/img/banner.png);
 }
-
-.banner-padding {
-  padding: 135px;
+h1 {
+  color: var(--black) !important;
 }
-
+.banner-padding {
+  padding: 130px;
+}
 .border-outline {
   outline: none !important;
 }
@@ -22,10 +21,13 @@
   padding: 16px 35px;
   background: #007f5f;
   border-radius: 17px;
-  color: #ffffff;
+  color: #ffffff !important;
   text-decoration: none;
 }
-
+.banner-btn:hover {
+  background-color: darkgreen;
+  color: #fff;
+}
 .input-outline {
   outline: none;
 }
@@ -38,10 +40,11 @@
   text-align: center;
   background-color: #007f5f;
 }
-
+.banner-search:hover {
+  background-color: darkgreen;
+}
 @media (min-width: 250px) and (max-width: 767px) {
   .banner {
-    /* height: 500px; */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom center;
@@ -60,7 +63,6 @@
 
 @media (min-width: 768px) {
   .banner {
-    /* height: 650px; */
     background-size: 85%;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -78,7 +80,6 @@
 
 @media (min-width: 992px) {
   .banner {
-    /* height: 650px; */
     background-size: 65%;
     background-repeat: no-repeat;
     background-position: bottom right;

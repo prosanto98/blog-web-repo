@@ -1,20 +1,27 @@
 :root {
-  --color-default: blue;
-  --color-primary: blue;
   --color-secondary: #f85a40;
+  --color-main: #007f5f;
+  --color-primary: #007f5f;
+  --black: #444;
 }
 .align-text {
   text-align: center;
+}
+p {
+  font-size: 13px !important;
 }
 .about h3,
 h2 {
   font-weight: 700;
   font-size: 28px;
   margin-bottom: 20px;
-  color: blue;
+  color: var(--black) !important;
 }
 p {
-  color: blue !important;
+  color: var(--black) !important;
+}
+.color-p {
+  color: var(--black) !important;
 }
 .about .call-us {
   left: 10%;
@@ -63,8 +70,8 @@ p {
   width: 94px;
   height: 94px;
   background: radial-gradient(
-    var(--color-primary) 50%,
-    rgba(0, 131, 116, 0.4) 52%
+    var(--color-main) 50%,
+    rgba(20, 218, 142, 0.4) 52%
   );
   border-radius: 50%;
   display: block;
@@ -91,7 +98,7 @@ p {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid blue;
+  border: 5px solid #007f5f;
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);

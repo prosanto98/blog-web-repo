@@ -15,7 +15,7 @@ const Footer = () => {
           <div className="col-12 col-lg-4 mb-3 mb-lg-0">
             <img src="img/logo.png" alt="" />
             <div className="mt-4">
-              <a className="p-2 ms-2 rounded-3 bg-success" href="/">
+              <a className="p-2 ms-2 rounded-3 bg-success ft-sz" href="/">
                 <TiSocialFacebook className="fs-1 text-white" />
               </a>
               <a className="p-2 ms-2 rounded-3 bg-success" href="/">

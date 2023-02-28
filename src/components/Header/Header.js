@@ -11,18 +11,26 @@ const Header = () => {
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
-          <Nav className="mx-auto my-2 my-lg-0">
-            <Nav className="mx-3 text-decoration-none">
-              <Link to="/">Home</Link>
+          <Nav className="mx-auto my-2 my-lg-0 nb-sz">
+            <Nav className="mx-3 text-decoration-none ">
+              <Link className="hover-nav" to="/">
+                Home
+              </Link>
             </Nav>
             <Nav className="mx-3">
-              <Link to="/about">About</Link>
+              <Link className="hover-nav" to="/about">
+                About
+              </Link>
             </Nav>
             <Nav className="mx-3">
-              <Link to="/blog">Blog</Link>
+              <Link className="hover-nav" to="/blog">
+                Gallery
+              </Link>
             </Nav>
             <Nav className="mx-3">
-              <Link to="/contact">Contact</Link>
+              <Link className="hover-nav" to="/contact">
+                Contact
+              </Link>
             </Nav>
           </Nav>
           <div>

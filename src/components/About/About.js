@@ -1,14 +1,22 @@
 import React from "react";
 import { FaCheckCircle } from "react-icons/fa";
-import "./Gallary.css";
+import "./About.css";
 const Gallary = () => {
   return (
     <>
       <section id="about" className="about">
         <div className="container" data-aos="fade-up">
+          <h1 className="heading">
+            <span>A</span>
+            <span>b</span>
+            <span>o</span>
+            <span>u</span>
+            <span>t</span>
+            <span>u</span>
+            <span>s</span>
+          </h1>
           <div className="section-header align-text">
-            <h2>About Us</h2>
-            <p>
+            <p className="color-p">
               Aperiam dolorum et et wuia molestias qui eveniet numquam nihil
               porro incidunt dolores placeat sunt id nobis omnis tiledo stran
               delop
@@ -23,14 +31,13 @@ const Gallary = () => {
                 className="img-fluid rounded-4 mb-4"
                 alt=""
               />
-              cl
-              <p>
+              <p className="color-p">
                 Ut fugiat ut sunt quia veniam. Voluptate perferendis
                 perspiciatis quod nisi et. Placeat debitis quia recusandae odit
                 et consequatur voluptatem. Dignissimos pariatur consectetur
                 fugiat voluptas ea.
               </p>
-              <p>
+              <p className="color-p">
                 Temporibus nihil enim deserunt sed ea. Provident sit expedita
                 aut cupiditate nihil vitae quo officia vel. Blanditiis eligendi
                 possimus et in cum. Quidem eos ut sint rem veniam qui. Ut ut
@@ -40,7 +47,7 @@ const Gallary = () => {
             </div>
             <div className="col-lg-6">
               <div className="content ps-0 ps-lg-5">
-                <p className="fst-italic">
+                <p className="fst-italic color-p">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
@@ -67,7 +74,7 @@ const Gallary = () => {
                     </i>
                   </li>
                 </ul>
-                <p>
+                <p className="color-p">
                   Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
                   aute irure dolor in reprehenderit in voluptate velit esse
                   cillum dolore eu fugiat nulla pariatur. Excepteur sint

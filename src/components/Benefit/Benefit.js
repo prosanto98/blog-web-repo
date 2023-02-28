@@ -6,7 +6,15 @@ const Benefit = () => {
     <div className="my-5">
       <div className="container">
         <div>
-          <h1 className="text-center fw-bold mb-3">Travel Benefit For User</h1>
+          <h1 className="heading">
+            <span>B</span>
+            <span>e</span>
+            <span>n</span>
+            <span>e</span>
+            <span>f</span>
+            <span>i</span>
+            <span>t</span>
+          </h1>
           <div className="row justify-content-center">
             <div className="col-lg-6 col-md-10">
               <p className="text-center">

@@ -7,7 +7,19 @@ const Destination = () => {
   return (
     <div className="container my-5">
       <div>
-        <h1 className="text-center">Popular Destination</h1>
+        <h1 className="heading">
+          <span>D</span>
+          <span>e</span>
+          <span>s</span>
+          <span>t</span>
+          <span>i</span>
+          <span>n</span>
+          <span>a</span>
+          <span>t</span>
+          <span>i</span>
+          <span>o</span>
+          <span>n</span>
+        </h1>
         <div className="row justify-content-center">
           <div className="col-lg-6 col-md-10">
             <p className="text-center">
@@ -21,16 +33,16 @@ const Destination = () => {
       <div className="row">
         <div className="col-12 col-md-6 col-lg-3 my-3">
           <Card className="border-0 p-3 rounded-3 cart-body">
-            <Card.Img variant="top" src="img/Destination-1.png" />
+            <Card.Img variant="top" src="img/7.jpg" />
             <Card.Body>
               <Card.Text>
                 <div className="d-flex align-items-center">
                   <span>
                     <AiFillStar className="text-warning"></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
                   </span>
                   <span className="ms-3 text-warning">5 review</span>
                 </div>
@@ -53,16 +65,16 @@ const Destination = () => {
         </div>
         <div className="col-12 col-md-6 col-lg-3 my-3">
           <Card className="border-0 p-3 rounded-3 cart-body">
-            <Card.Img variant="top" src="img/Destination-1.png" />
+            <Card.Img variant="top" src="img/2.jpg" />
             <Card.Body>
               <Card.Text>
                 <div className="d-flex align-items-center">
                   <span>
                     <AiFillStar className="text-warning"></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
                   </span>
                   <span className="ms-3 text-warning">5 review</span>
                 </div>
@@ -85,16 +97,16 @@ const Destination = () => {
         </div>
         <div className="col-12 col-md-6 col-lg-3 my-3">
           <Card className="border-0 p-3 rounded-3 cart-body">
-            <Card.Img variant="top" src="img/Destination-1.png" />
+            <Card.Img variant="top" src="img/3.webp" />
             <Card.Body>
               <Card.Text>
                 <div className="d-flex align-items-center">
                   <span>
                     <AiFillStar className="text-warning"></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
                   </span>
                   <span className="ms-3 text-warning">5 review</span>
                 </div>
@@ -117,16 +129,16 @@ const Destination = () => {
         </div>
         <div className="col-12 col-md-6 col-lg-3 my-3">
           <Card className="border-0 p-3 rounded-3 cart-body">
-            <Card.Img variant="top" src="img/Destination-1.png" />
+            <Card.Img variant="top" src="img/4.jpg" />
             <Card.Body>
               <Card.Text>
                 <div className="d-flex align-items-center">
                   <span>
                     <AiFillStar className="text-warning"></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
                   </span>
                   <span className="ms-3 text-warning">5 review</span>
                 </div>
@@ -149,16 +161,16 @@ const Destination = () => {
         </div>
         <div className="col-12 col-md-6 col-lg-3 my-3">
           <Card className="border-0 p-3 rounded-3 cart-body">
-            <Card.Img variant="top" src="img/Destination-1.png" />
+            <Card.Img variant="top" src="img/5.jpg" />
             <Card.Body>
               <Card.Text>
                 <div className="d-flex align-items-center">
                   <span>
                     <AiFillStar className="text-warning"></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
                   </span>
                   <span className="ms-3 text-warning">5 review</span>
                 </div>
@@ -181,16 +193,16 @@ const Destination = () => {
         </div>
         <div className="col-12 col-md-6 col-lg-3 my-3">
           <Card className="border-0 p-3 rounded-3 cart-body">
-            <Card.Img variant="top" src="img/Destination-1.png" />
+            <Card.Img variant="top" src="img/6.jpg" />
             <Card.Body>
               <Card.Text>
                 <div className="d-flex align-items-center">
                   <span>
                     <AiFillStar className="text-warning"></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
                   </span>
                   <span className="ms-3 text-warning">5 review</span>
                 </div>
@@ -213,16 +225,16 @@ const Destination = () => {
         </div>
         <div className="col-12 col-md-6 col-lg-3 my-3">
           <Card className="border-0 p-3 rounded-3 cart-body">
-            <Card.Img variant="top" src="img/Destination-1.png" />
+            <Card.Img variant="top" src="img/7.jpg" />
             <Card.Body>
               <Card.Text>
                 <div className="d-flex align-items-center">
                   <span>
                     <AiFillStar className="text-warning"></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
                   </span>
                   <span className="ms-3 text-warning">5 review</span>
                 </div>
@@ -245,16 +257,16 @@ const Destination = () => {
         </div>
         <div className="col-12 col-md-6 col-lg-3 my-3">
           <Card className="border-0 p-3 rounded-3 cart-body">
-            <Card.Img variant="top" src="img/Destination-1.png" />
+            <Card.Img variant="top" src="img/2.jpg" />
             <Card.Body>
               <Card.Text>
                 <div className="d-flex align-items-center">
                   <span>
                     <AiFillStar className="text-warning"></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
-                    <AiFillStar></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
+                    <AiFillStar className="text-warning"></AiFillStar>
                   </span>
                   <span className="ms-3 text-warning">5 review</span>
                 </div>

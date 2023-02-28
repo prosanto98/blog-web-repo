@@ -9,7 +9,15 @@ const Explore = () => {
     <div className="container my-5">
       <div>
         <div>
-          <h1 className="text-center mb-3">Explore Top Destination</h1>
+          <h1 className="heading">
+            <span>E</span>
+            <span>x</span>
+            <span>p</span>
+            <span>l</span>
+            <span>o</span>
+            <span>r</span>
+            <span>e</span>
+          </h1>
           <div className="row justify-content-center">
             <div className="col-lg-6 col-md-10">
               <p className="text-center">

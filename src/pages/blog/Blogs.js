@@ -1,10 +1,10 @@
 import React from "react";
-import Benefit from "../../components/Benefit/Benefit";
+import Gallery from "../../components/Gallery/Gallery";
 
 const Blogs = () => {
   return (
     <>
-      <Benefit></Benefit>
+      <Gallery></Gallery>
     </>
   );
 };

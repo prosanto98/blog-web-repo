@@ -9,3 +9,6 @@
   top: 10%;
   right: 15px;
 }
+.subscribe-btn:hover {
+  background-color: darkgreen;
+}

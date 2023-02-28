@@ -3,9 +3,11 @@
   background: #007f5f;
   border-radius: 17px;
   text-decoration: none;
-  color: #fff;
+  color: #fff !important;
 }
-
+.selected-btn:hover {
+  background-color: darkgreen;
+}
 .search-input {
   width: 50%;
   background: #b1e3ff;

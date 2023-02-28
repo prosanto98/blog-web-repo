@@ -1,10 +1,10 @@
 import React from "react";
-import Benefit from "../../components/Benefit/Benefit";
+import Contactus from "../../components/Contact/Contactus";
 
 function Contact() {
   return (
     <>
-      <Benefit></Benefit>
+      <Contactus></Contactus>
     </>
   );
 }

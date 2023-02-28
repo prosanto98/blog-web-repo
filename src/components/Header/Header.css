@@ -3,9 +3,11 @@
 }
 
 .nav-logo {
-  width: 150px;
+  width: 190px;
 }
-
+.nb-sz {
+  font-size: 15px;
+}
 .nav-btn {
   text-decoration: none;
   font-weight: 600;
@@ -14,6 +16,14 @@
   background: #007f5f;
   border-radius: 17px;
 }
-a {
+.nav-btn:hover {
+  background-color: darkgreen;
+  color: #fff;
+}
+.hover-nav {
   text-decoration: none !important;
+  color: var(--black) !important;
+}
+.hover-nav:hover {
+  color: blue !important;
 }

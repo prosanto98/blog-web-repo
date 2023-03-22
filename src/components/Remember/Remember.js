@@ -63,7 +63,7 @@ const Remember = () => {
                       <img src="img/Remember-2.png" alt="Remember" />
                     </div>
                     <div>
-                      <h2>500K+</h2>
+                      <h2>600K+</h2>
                       <h5>Satisfied Clients</h5>
                     </div>
                   </div>
@@ -72,7 +72,7 @@ const Remember = () => {
                       <img src="img/Remember-3.png" alt="Remember" />
                     </div>
                     <div>
-                      <h2>500K+</h2>
+                      <h2>400K+</h2>
                       <h5>Satisfied Clients</h5>
                     </div>
                   </div>
@@ -81,7 +81,7 @@ const Remember = () => {
                       <img src="img/Remember-4.png" alt="Remember" />
                     </div>
                     <div>
-                      <h2>500K+</h2>
+                      <h2>350K+</h2>
                       <h5>Satisfied Clients</h5>
                     </div>
                   </div>

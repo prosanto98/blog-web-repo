@@ -1,10 +1,12 @@
 import React from "react";
-import Gallery from "../../components/Gallery/Gallery";
+import Gallary from "../../components/Gallery/Gallery";
+import Search from "../../components/Search-place/Search";
 
 const Blogs = () => {
   return (
     <>
-      <Gallery></Gallery>
+      <Gallary></Gallary>
+      <Search></Search>
     </>
   );
 };

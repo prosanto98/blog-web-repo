@@ -86,7 +86,7 @@ const Destination = () => {
               </Card.Text>
               <Card.Text>
                 <div className="d-flex align-items-center">
-                  <h2 className="me-3">$150</h2> <span>/ Person</span>
+                  <h2 className="me-3">$100</h2> <span>/ Person</span>
                 </div>
               </Card.Text>
               <div>
@@ -118,7 +118,7 @@ const Destination = () => {
               </Card.Text>
               <Card.Text>
                 <div className="d-flex align-items-center">
-                  <h2 className="me-3">$150</h2> <span>/ Person</span>
+                  <h2 className="me-3">$120</h2> <span>/ Person</span>
                 </div>
               </Card.Text>
               <div>
@@ -150,7 +150,7 @@ const Destination = () => {
               </Card.Text>
               <Card.Text>
                 <div className="d-flex align-items-center">
-                  <h2 className="me-3">$150</h2> <span>/ Person</span>
+                  <h2 className="me-3">$250</h2> <span>/ Person</span>
                 </div>
               </Card.Text>
               <div>
@@ -182,7 +182,7 @@ const Destination = () => {
               </Card.Text>
               <Card.Text>
                 <div className="d-flex align-items-center">
-                  <h2 className="me-3">$150</h2> <span>/ Person</span>
+                  <h2 className="me-3">$130</h2> <span>/ Person</span>
                 </div>
               </Card.Text>
               <div>
@@ -246,7 +246,7 @@ const Destination = () => {
               </Card.Text>
               <Card.Text>
                 <div className="d-flex align-items-center">
-                  <h2 className="me-3">$150</h2> <span>/ Person</span>
+                  <h2 className="me-3">$110</h2> <span>/ Person</span>
                 </div>
               </Card.Text>
               <div>
